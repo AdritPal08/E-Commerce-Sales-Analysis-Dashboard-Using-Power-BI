@@ -28,7 +28,10 @@ Based on the selected Location(State) calculate
 5. Sales by Month
 
 
+## Dashboard
+* Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTc4N2Y5NzEtOGY1OS00NDlkLThlNzgtNTU2ZTQ3Y2NhNzk4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
 
+  
 ## Screenshots
 
 ![App Screenshot](https://github.com/AdritPal08/E-Commerce-Sales-Analysis-Dashboard-Using-Power-BI/blob/main/P1.png)
